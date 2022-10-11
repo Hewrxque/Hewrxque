@@ -1,7 +1,7 @@
 ### Olá, eu sou Hewrxque
 
 - 🔭 Hoje faço estágio com Full-Stack
-- 🌱 Estudando TypeScript
+- 🌱 Estudando JavaScript
 
   ##
   

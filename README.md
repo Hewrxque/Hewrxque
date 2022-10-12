@@ -1,7 +1,6 @@
 ### Olá, eu sou Hewrxque
 
-- 🔭 Hoje faço estágio com Full Stack
-- 🌱 Estudando JavaScript
+- 👨‍💻 Estudando JavaScript
 - ✒  Designer Gráfico
 
 <div style="display: inline_block"><br>

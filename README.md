@@ -1,5 +1,4 @@
-### Olá, eu sou Henrique
-##
+<h1> Olá, eu sou Henrique </h1>
 
 - 👨‍💻 Estudante de Analise e Desenvolvimento de Sistemas
 - Estagiário do Centro Universitário Maurício de Nassau no Projeto V3l0z
@@ -22,8 +21,8 @@
  
 ##
 <a href="https://github.com/Hewrxque">
-  <img height="160em " src="https://github-readme-stats.vercel.app/api?username=hewrxque&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewrxque&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em " src="https://github-readme-stats.vercel.app/api?username=hewrxque&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewrxque&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
  ##

@@ -1,8 +1,7 @@
 <h1> Olá, eu sou Henrique </h1>
 
-- 👨‍💻 Estudante de Analise e Desenvolvimento de Sistemas
-- Estagiário do Centro Universitário Maurício de Nassau no Projeto V3l0z
-- ✒  Designer Gráfico
+- 👨‍💻 Graduate in Analysis and Systems Development.
+- ✒  Graphic Designer
 
 <div style="display: inline_block"><br>
  

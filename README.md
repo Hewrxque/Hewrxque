@@ -1,4 +1,4 @@
-<h1> Olá, eu sou Henrique </h1>
+<h1> Hello, I am Henrique. </h1>
 
 - 👨‍💻 Graduate in Analysis and Systems Development.
 - ✒  Graphic Designer

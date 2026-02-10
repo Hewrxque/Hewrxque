@@ -1,7 +1,7 @@
 <h1> Hello, I am Henrique. </h1>
 
 - 👨‍💻 Graduate in Analysis and Systems Development.
-- ✒  Graphic Designer
+- Junior Systems Analyst | Production Support | QA | Manual Testing | REST APIs | SQL | Systems Integration | Back-end Developer in ⚙️
 
 <div style="display: inline_block"><br>
  
